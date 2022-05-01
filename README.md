@@ -1,7 +1,8 @@
 まだまだ勉強中でお恥ずかしい限りですが、そのソースコードを公開しております。
 
 # 簡易的な掲示板のプログラムの公開
-
+ローカル環境での掲示板操作の様子はこちら。  
+https://youtube.com/shorts/76f4Pi-KizM?feature=share
 
 ## 次のYoutube動画を参考にReactにて実装
 ◆Node.js × MongoDBで簡易掲示板を作ってフルスタックプロジェクトを体験してみよう  
